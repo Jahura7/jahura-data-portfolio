@@ -4,7 +4,7 @@ Professional Resume of "Jahura Begum" as Data Analyst.
 
 📍 Dhaka, Bangladesh
 📧 [jahura.be7@gmail.com](mailto:jahura.be7@gmail.com)
-🔗 LinkedIn: [www.linkedin.com/in/jahura-begum-64008858]
+🔗 [LinkedIn](www.linkedin.com/in/jahura-begum-64008858)
 
 ---
 
@@ -33,7 +33,7 @@ Background in pharmaceutical product development with strong expertise in **data
 * Analyzed attrition, headcount, and employee trends
 * Delivered actionable HR insights
 
-👉 [View Project](link)
+👉 [View Project](https://github.com/Jahura7/HR-Analytics-Dashboard.git)
 
 ---
 
@@ -43,7 +43,7 @@ Background in pharmaceutical product development with strong expertise in **data
 * Integrated multiple datasets
 * Created drill-down sales performance analysis
 
-👉 [View Project](link)
+👉 [View Project](https://github.com/Jahura7/Sales_Analysis_Report_December_2024.git)
 
 ---
 
@@ -53,7 +53,7 @@ Background in pharmaceutical product development with strong expertise in **data
 * Regional sales insights with dynamic filtering
 * Data modeling and transformation
 
-👉 [View Project](link)
+👉 [View Project](https://github.com/Jahura7/Continental_Sales_Analysis.git)
 
 ---
 
@@ -67,7 +67,7 @@ Background in pharmaceutical product development with strong expertise in **data
 
 ## 📜 Certifications
 
-* Data Analytics Certification (Add Link)
+* Data Analytics Certification ([Add Link](https://ostad.app/share/certificate/c40660-jahura-begum))
 
 ---
 
